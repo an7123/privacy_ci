@@ -1,6 +1,6 @@
 # Privacy CI
 
-Official code for our paper: *Leveraging Sparsity for Privacy in Collaborative Inference* (WACV 2025).
+Official code for our paper: *Leveraging Sparsity for Privacy in Collaborative Inference*.
 
 ## Setup
 
